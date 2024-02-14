@@ -141,9 +141,7 @@ body {
 .team {
     background-color: var(--cloud-text-color);
 }
-.team-item {
-    color: var(--primary-bg-color);
-}
+
 /* ============== /TEAM ============= */
 
 /* ============== FOOTER ============== */
