@@ -100,8 +100,8 @@ body {
 }
 /* ============== /HERO ============== */
 
-/* ============== MAIN CONTENT ============== */
-.sub-title {
+/* ============== STUDIO ============== */
+.std-sub-title {
     text-align: center;
     color: var(--secondary-text-color);
     background-color: var(--primary-bg-color);
@@ -111,7 +111,7 @@ body {
     letter-spacing: 0.02em;
 }
 
-.section-description {
+.std-section-description {
     color: var(--primary-text-color);
     background-color: var(--primary-bg-color);
     font-size: 16px;
@@ -119,18 +119,24 @@ body {
     line-height: 1.12;
      letter-spacing: 0.02em;
 }
+/* ============== /STUDIO ============== */
 
+/* ============== WAWD =============== */
 .secondary-title {
     text-align: center;
     color: var(--secondary-text-color);
-    font-size: 36px;    
+    font-size: 36px;
     font-weight: 700;
     line-height: 1.12;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-/* ============== /MAIN CONTENT ============== */
 
+
+
+
+
+/* ============== /WAWD =============== */
 /* ============== TEAM ============= */
 .team {
     background-color: var(--cloud-text-color);
