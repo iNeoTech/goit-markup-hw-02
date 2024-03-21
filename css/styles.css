@@ -121,7 +121,7 @@ body {
 }
 /* ============== /STUDIO ============== */
 
-/* ============== WAWD =============== */
+
 .secondary-title {
     text-align: center;
     color: var(--secondary-text-color);
@@ -131,10 +131,14 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
-
-
-
-
+/* ============== WAWD =============== */
+.triple-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
 
 /* ============== /WAWD =============== */
 /* ============== TEAM ============= */
