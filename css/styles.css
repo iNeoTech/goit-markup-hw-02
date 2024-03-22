@@ -158,6 +158,32 @@ body {
 }
 /* ============== /TEAM ============= */
 
+/* ============== PORTFOLIO ============== */
+.portfolio-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.ptf-sub-title {
+    color: var(--secondary-text-color);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+.ptf-section-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+}
+/* ============== /PORTFOLIO ============== */
+
 /* ============== FOOTER ============== */
 .footer {
     background-color: var(--secondary-text-color);
@@ -174,23 +200,5 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
 /* ============== /FOOTER ============== */
-
-/* ============== PORTFOLIO BTN ============== */
-.portfolio-btn {
-    font-family: "Roboto", sans-serif;
-    color: var(--accent-color);
-    background-color: var(--cloud-text-color);
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    cursor: pointer;
-}
-
-.portfolio-btn:hover,
-.portfolio-btn:focus {
-    color: var(--primary-bg-color);
-    background-color: var(--secondary-accent-color);
-}
-/* ============== /PORTFOLIO BTN ============== */
