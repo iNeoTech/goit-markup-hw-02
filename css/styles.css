@@ -159,15 +159,6 @@ body {
 /* ============== /TEAM ============= */
 
 /* ============== PORTFOLIO ============== */
-.portfolio-title {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    text-align: center;
-}
-
 .ptf-sub-title {
     color: var(--secondary-text-color);
     font-weight: 500;
